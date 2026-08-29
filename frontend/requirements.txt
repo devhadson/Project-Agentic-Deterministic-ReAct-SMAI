@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+sqlalchemy
+psycopg2-binary
+bcrypt
+pyjwt
+requests
+requests-oauthlib
+pydantic
+python-dotenv
+streamlit
+langchain
+langchain-community
+openai
