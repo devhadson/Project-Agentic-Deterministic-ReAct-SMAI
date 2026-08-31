@@ -11,10 +11,10 @@ Denominado como **Sistema Médico de Asistencia Inteligente (SMAI)** desarrollad
 - Elaboración: Sistema Médico de Asistencia Inteligente (SMAI)
   - Plataforma inteligente diseñada para la gestión administrativa de pacientes con diabetes.
   - Google Identity: `OAuth 2.0` y Autentication & Permisos de Usuario (`RBAC`)
-  - Arquitectura: Híbrida (Determinista y Agéntica)
+  - Arquitectura: Híbrida (`Determinista` y `Agéntica`)
   - Modelo Fundacional IA: OpenAI (`GPT-4o`)
-  - Contexto, Prompting y Orquestación de Agentes: LangChain Framework
-  - Frontend: Streamlit Framework 
+  - Contexto, Prompting y Orquestación de Agentes: `LangChain` Framework
+  - Frontend: `Streamlit` Framework 
   - Base de datos: Transaccional `PostgreSQL` y Vectorial `FAISS`
 - Especialización: IA Engineer y Arquitetura de Sistemas Generativos 
 - Docente: [Miguel Angel Cotrina Espinoza](https://www.linkedin.com/in/mcotrina/)
@@ -22,7 +22,7 @@ Denominado como **Sistema Médico de Asistencia Inteligente (SMAI)** desarrollad
 
 ### Resumen Arquitectónico del Proyecto
 
-Este repositorio implementa una arquitectura desacoplada basada en patrones Agénticos y Deterministas:
+Este proyecto implementa una arquitectura desacoplada basada en patrones **Agénticos y Deterministas**:
 
 ![flayer-smai](frontend/src/assets/diagrama-despliegue.png)
 
@@ -32,7 +32,7 @@ Este repositorio implementa una arquitectura desacoplada basada en patrones Agé
 - **Orquestación Agéntica:** Combina flujos deterministas con capacidad de razonamiento **ReAct** para consultas clínicas, triaje y gestión de contexto.
 
 > [!IMPORTANT]
-> Puedes revisar la evoluación de este proyecto en base al [MVP1](https://github.com/devhadson/Project-Agentic-AI-Virtual-Medical-Assistant), [MVP1](https://github.com/devhadson/Project-Agentic-AI-SMAI) y [MVP1](https://github.com/devhadson/Project-Agentic-AI-SMA-M6).
+> Puedes revisar la evoluación de este proyecto en base al [MVP1](https://github.com/devhadson/Project-Agentic-AI-Virtual-Medical-Assistant), [MVP2](https://github.com/devhadson/Project-Agentic-AI-SMAI) y [MVP3](https://github.com/devhadson/Project-Agentic-AI-SMA-M6).
 
 ### Librerías y Dependencias Principales
 
